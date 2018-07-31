@@ -1,4 +1,5 @@
-# rn-pull-to-refresh
+rn-pull-to-refresh
+---------
 pull-to-refresh+sticky
 #install：
 npm install "rn-dgz-pull-to-refresh" --save
