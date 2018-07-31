@@ -17,15 +17,15 @@ import PullView from 'dgz-rn-pull-to-refresh';
     }
 ...   
 ```
-//see TestPullRefresh to learn more
+see TestPullRefresh to learn more
 
 --------
 api
 -----
     |         props                   |                            description    |
-    |---------------------------------|------------------------------------------:|
+    |---------------------------------|:------------------------------------------:|
     |pullAble                         |       是否可以下拉                         |       
-    |showBouncesView                  |        是否展示缩放header|
+    |showBouncesView                  |        是否展示缩放header                     |
     |pullOkMargin                      |     下拉距离触发刷新的临界值（插值之前）|
     |refreshingMargin                  |    刷新状态时位置|
     |duration                          |     默认动画执行时间|
