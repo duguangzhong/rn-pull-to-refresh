@@ -22,9 +22,10 @@ see TestPullRefresh to learn more
 --------
 api
 -----
-    |         props                   |                            description    |
-    |---------------------------------|:-----------------------------------------:|
-    |pullAble                         |       是否可以下拉                         |       
-    |showBouncesView                  |        是否展示缩放header                  |
-    |pullOkMargin                     |     下拉距离触发刷新的临界值（插值之前）     |
+             props                   |                            description    
+    ---------------------------------|-----------------------------------------
+    pullAble                         |       是否可以下拉                                
+    showBouncesView                  |        是否展示缩放header                  
+    pullOkMargin                     |     下拉距离触发刷新的临界值（插值之前）     
    
+ 
