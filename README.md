@@ -23,11 +23,11 @@ see TestPullRefresh to learn more
 api
 -----
 
-props   |  description   | default
-----|------|----
-    pullAble                         |       是否可以下拉                         |       /
-    showBouncesView                  |        是否展示缩放header                  |/
-    pullOkMargin                     |     下拉距离触发刷新的临界值（插值之前）     |/
+props            |     description                      |    default
+----             |------                                |----
+pullAble         |       是否可以下拉                    |       0
+showBouncesView  |        是否展示缩放header             |0
+pullOkMargin     |     下拉距离触发刷新的临界值（插值之前）|0
    
  
 |refreshingMargin                 |    刷新状态时位置|
