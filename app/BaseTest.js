@@ -1,4 +1,4 @@
-import React, {Component} from 'react';
+import React, {PureComponent} from 'react';
 import {
     AppRegistry,
     StyleSheet,
@@ -7,7 +7,7 @@ import {
 } from 'react-native';
 import PullView from 'dgz-rn-pull-to-refresh';
 
-export default class Test extends Component {
+export default class BaseTest extends PureComponent {
     render() {
         return (
             <View style={styles.container}>

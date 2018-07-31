@@ -1,6 +1,6 @@
 'use strict';
 import React from 'react';
 import {AppRegistry} from 'react-native';
-import Test from './app/Test';
+import Test from './app/BaseTest';
 
 AppRegistry.registerComponent('PullRefresh', () => Test);
