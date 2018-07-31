@@ -8,7 +8,7 @@ install
 npm install "rn-dgz-pull-to-refresh" --save
 
 ------
-base usge
+base usage
 ----
 ```javascript
 import PullView from 'dgz-rn-pull-to-refresh';
@@ -25,7 +25,7 @@ import PullView from 'dgz-rn-pull-to-refresh';
 see TestPullRefresh to learn more
 
 --------
-api
+API
 -----
 
 props                                 |     description                      |    default
