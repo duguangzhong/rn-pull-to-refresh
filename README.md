@@ -1,3 +1,8 @@
+demo：
+------
+![](https://github.com/dgzfree/rn-pull-to-refresh/demo.gif)  
+
+------
 install：
 --------
 npm install "rn-dgz-pull-to-refresh" --save
