@@ -211,7 +211,7 @@ export default class extends PureComponent {
 
                     //onPull={this.onPull}
                     //onScroll={this.onScroll}
-                    //getScrollView={this.getScrollView}
+                    getScrollView={this.getScrollView}
                     getScrollDrive={this.getScrollDrive}
                     getPullDrive={this.getPullDrive}
 
