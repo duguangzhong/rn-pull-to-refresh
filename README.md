@@ -32,7 +32,7 @@ props                                 |     description                      |  
 ----                                  |------                                |----
 pullAble                              |       是否可以下拉                    |       true
 showBouncesView                       |        是否展示缩放header             |       true
-pullOkMargin                          |     下拉距离触发刷新的临界值（插值之前）|       60
+pullOkMargin                          |     下拉距离触发刷新的临界值（插值前）|       60
 refreshingMargin                      |    刷新状态时位置                     |300
 duration                              |     默认动画执行时间                  |500
 driveRefreshViewProportion            |    驱动刷新视图                       |5
