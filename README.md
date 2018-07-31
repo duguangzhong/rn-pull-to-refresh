@@ -1,8 +1,3 @@
-dog | bird | cat
-----|------|----
-foo | foo  | foo
-bar | bar  | bar
-baz | baz  | baz
 install：
 --------
 npm install "rn-dgz-pull-to-refresh" --save
@@ -27,8 +22,9 @@ see TestPullRefresh to learn more
 --------
 api
 -----
-             props                   |                            description   |   default |
-     ------------------------------- | ---------------------------------------- |------------
+
+props   |  description   | default
+----|------|----
     pullAble                         |       是否可以下拉                         |       /
     showBouncesView                  |        是否展示缩放header                  |/
     pullOkMargin                     |     下拉距离触发刷新的临界值（插值之前）     |/
