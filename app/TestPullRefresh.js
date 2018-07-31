@@ -221,7 +221,7 @@ export default class extends PureComponent {
                     //onRefreshViewStateToComplete={this.onRefreshViewStateToComplete}
 
                     //onShouldRefresh={this.onShouldRefresh}
-                    //onShouldLoadMore={this.onShouldLoadMore}
+                    onShouldLoadMore={this.onShouldLoadMore}
                 />
 
                 <Animated.View style={{
