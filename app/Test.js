@@ -5,13 +5,13 @@ import {
     Text,
     View
 } from 'react-native';
-import PullableView from 'dgz-rn-pull-to-refresh';
+import PullView from 'dgz-rn-pull-to-refresh';
 
 export default class Test extends Component {
     render() {
         return (
             <View style={styles.container}>
-                <PullableView/>
+                <PullView/>
             </View>
         );
     }
