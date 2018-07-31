@@ -1,6 +1,6 @@
 demo
 ------
-![image](https://github.com/dgzfree/rn-pull-to-refresh/demo.gif)  
+![image](https://github.com/dgzfree/rn-pull-to-refresh/blob/master/demo.gif)  
 
 ------
 install
