@@ -1,9 +1,10 @@
-rn-pull-to-refresh
----------
-pull-to-refresh+sticky
-#install：
+install：
+--------
 npm install "rn-dgz-pull-to-refresh" --save
-#base usge:
+
+------
+base usge:
+----
 ```javascript
 import PullView from 'dgz-rn-pull-to-refresh';
 ...
@@ -17,7 +18,10 @@ import PullView from 'dgz-rn-pull-to-refresh';
 ...   
 ```
 //see TestPullRefresh to learn more
-#api
+
+--------
+api
+-----
     |         props                   |                            description    |
     |---------------------------------|------------------------------------------:|
     |pullAble                         |       是否可以下拉                         |       
