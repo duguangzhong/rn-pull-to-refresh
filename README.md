@@ -1,14 +1,14 @@
-demo：
+demo
 ------
-![](https://github.com/dgzfree/rn-pull-to-refresh/demo.gif)  
+![image](https://github.com/dgzfree/rn-pull-to-refresh/demo.gif)  
 
 ------
-install：
+install
 --------
 npm install "rn-dgz-pull-to-refresh" --save
 
 ------
-base usge:
+base usge
 ----
 ```javascript
 import PullView from 'dgz-rn-pull-to-refresh';
