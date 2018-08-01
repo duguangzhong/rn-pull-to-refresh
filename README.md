@@ -42,7 +42,6 @@ driveListViewWithBouncesView          | 驱动列表视图|6
 driveListViewWithoutBouncesView    | 驱动列表视图|4
 showStickyView                      |    是否展示粘性头部|true
 stickyOffset                       | 滚动到多少吸住|sticky视图初始偏移
-navigationViewCanMove              |   顶栏跟随哪个手势|false 跟随scroll
 loadMoreSwitchBottomMargin         |  滑动到距底部多少触发加载更多|100
 renderNavigationView||renderDefaultNavigationView
 renderRefreshView||renderDefaultRefreshView

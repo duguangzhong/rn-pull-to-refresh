@@ -190,7 +190,6 @@ export default class extends PureComponent {
                     //showBouncesView={true}
                     //showStickyView={true}
                     //showNavigationView={false}
-                    //navigationViewCanMove={false}
                     //stickyOffset={20}
                     //refreshViewHeight={60}
                     //pullOkMargin={60}
