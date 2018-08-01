@@ -33,7 +33,7 @@ props                                 |     description                      |  
 pullAble                              |       是否可以下拉                    |       true
 showBouncesView                       |        是否展示缩放header             |       true
 showNavigationView                    |       是否展示导航栏                  |      true
-navigationViewCanMove                 |   顶栏跟随哪个手势                     |false 跟随scroll
+navigationViewCanMove                 |   顶栏跟随哪个手势                    |false 跟随scroll
 pullOkMargin                          |     下拉距离触发刷新的临界值（插值前）|       60
 refreshingMargin                      |    刷新状态时位置                     |300
 duration                              |     默认动画执行时间                  |500
