@@ -33,7 +33,6 @@ props                                 |     description                      |  
 pullAble                              |       是否可以下拉                    |       true
 showBouncesView                       |        是否展示缩放header             |       true
 showNavigationView                    |       是否展示导航栏                  |      true
-navigationViewCanMove                 |   顶栏跟随哪个手势                    |false 跟随scroll
 pullOkMargin                          |     下拉距离触发刷新的临界值（插值前）|       60
 refreshingMargin                      |    刷新状态时位置                     |300
 duration                              |     默认动画执行时间                  |500
@@ -45,7 +44,7 @@ driveListViewWithoutBouncesView    | 驱动列表视图|4
 showStickyView                      |    是否展示粘性头部|true
 stickyOffset                       | 滚动到多少吸住|sticky视图初始偏移
 loadMoreSwitchBottomMargin         |  滑动到距底部多少触发加载更多|100
-renderNavigationView||renderDefaultNavigationView
+renderNavigationView|如果不需要stickyHeader插入navigationView，则不应该使用此视图，应在外部自行实现|renderDefaultNavigationView
 renderRefreshView||renderDefaultRefreshView
 renderBouncesView||renderDefaultBouncesView
 renderStickyView||renderDefaultStickyView
