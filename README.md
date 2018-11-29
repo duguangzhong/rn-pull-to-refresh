@@ -5,7 +5,7 @@ demo
 ------
 install
 --------
-npm install dgz-rn-pull-to-refresh --save
+npm i pull-to-refresh-dugz 
 
 ------
 base usage
